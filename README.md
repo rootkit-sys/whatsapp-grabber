@@ -1,6 +1,6 @@
 # whatsapp-grabber
 
-**Getting started.
+**Getting started.**
 
 ```
   pip install qrcode
