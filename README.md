@@ -6,7 +6,7 @@
   pip install qrcode
   pip install selenium
 ```
-  Download chromedriver from [Chromedriver](https://chromedriver.chromium.org/downloads)
+  Download chromedriver from [chromedriver.chromium.org](https://chromedriver.chromium.org/downloads)
 
 **Using.**
 
